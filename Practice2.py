@@ -6,3 +6,9 @@ elif age >= 60:
     print("You are a senior citizen")
 else:
     print("You are minor and you can't vote")
+
+name = "suresh"
+
+print(name)
+
+
