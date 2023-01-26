@@ -7,8 +7,8 @@ elif age >= 60:
 else:
     print("You are minor and you can't vote")
 
-name = "suresh"
+name = input("Enter name here")
 
-print(name)
+print("Name is "+name)
 
 
